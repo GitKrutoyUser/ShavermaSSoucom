@@ -1,0 +1,14 @@
+c:\Users\User\Documents\Наврузали крутой пацан\bin\Debug\net9.0\Наврузали крутой пацан.exe
+C:\Users\User\Documents\Наврузали крутой пацан\bin\Debug\net9.0\Наврузали крутой пацан.deps.json
+C:\Users\User\Documents\Наврузали крутой пацан\bin\Debug\net9.0\Наврузали крутой пацан.runtimeconfig.json
+c:\Users\User\Documents\Наврузали крутой пацан\bin\Debug\net9.0\Наврузали крутой пацан.dll
+c:\Users\User\Documents\Наврузали крутой пацан\bin\Debug\net9.0\Наврузали крутой пацан.pdb
+c:\Users\User\Documents\Наврузали крутой пацан\obj\Debug\net9.0\Наврузали крутой пацан.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\User\Documents\Наврузали крутой пацан\obj\Debug\net9.0\Наврузали крутой пацан.AssemblyInfoInputs.cache
+c:\Users\User\Documents\Наврузали крутой пацан\obj\Debug\net9.0\Наврузали крутой пацан.AssemblyInfo.cs
+c:\Users\User\Documents\Наврузали крутой пацан\obj\Debug\net9.0\Наврузали крутой пацан.csproj.CoreCompileInputs.cache
+c:\Users\User\Documents\Наврузали крутой пацан\obj\Debug\net9.0\Наврузали крутой пацан.dll
+c:\Users\User\Documents\Наврузали крутой пацан\obj\Debug\net9.0\refint\Наврузали крутой пацан.dll
+c:\Users\User\Documents\Наврузали крутой пацан\obj\Debug\net9.0\Наврузали крутой пацан.pdb
+C:\Users\User\Documents\Наврузали крутой пацан\obj\Debug\net9.0\Наврузали крутой пацан.genruntimeconfig.cache
+C:\Users\User\Documents\Наврузали крутой пацан\obj\Debug\net9.0\ref\Наврузали крутой пацан.dll

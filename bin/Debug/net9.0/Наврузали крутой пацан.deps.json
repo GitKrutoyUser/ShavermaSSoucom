@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Наврузали крутой пацан/1.0.0": {
+        "runtime": {
+          "Наврузали крутой пацан.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Наврузали крутой пацан/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
